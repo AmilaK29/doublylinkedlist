@@ -1,0 +1,14 @@
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\bin\Debug\net9.0\doublylinkedlist.exe
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\bin\Debug\net9.0\doublylinkedlist.deps.json
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\bin\Debug\net9.0\doublylinkedlist.runtimeconfig.json
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\bin\Debug\net9.0\doublylinkedlist.dll
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\bin\Debug\net9.0\doublylinkedlist.pdb
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\obj\Debug\net9.0\doublylinkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\obj\Debug\net9.0\doublylinkedlist.AssemblyInfoInputs.cache
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\obj\Debug\net9.0\doublylinkedlist.AssemblyInfo.cs
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\obj\Debug\net9.0\doublylinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\obj\Debug\net9.0\doublylinkedlist.dll
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\obj\Debug\net9.0\refint\doublylinkedlist.dll
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\obj\Debug\net9.0\doublylinkedlist.pdb
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\obj\Debug\net9.0\doublylinkedlist.genruntimeconfig.cache
+C:\Users\Amila Kasun\Desktop\Edu\Programming\Malli\doublylinkedlist\obj\Debug\net9.0\ref\doublylinkedlist.dll
